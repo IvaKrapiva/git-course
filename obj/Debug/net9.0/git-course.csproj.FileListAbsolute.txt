@@ -1,0 +1,14 @@
+/Users/ivakrapiva/git-course/bin/Debug/net9.0/git-course
+/Users/ivakrapiva/git-course/bin/Debug/net9.0/git-course.deps.json
+/Users/ivakrapiva/git-course/bin/Debug/net9.0/git-course.runtimeconfig.json
+/Users/ivakrapiva/git-course/bin/Debug/net9.0/git-course.dll
+/Users/ivakrapiva/git-course/bin/Debug/net9.0/git-course.pdb
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.AssemblyInfoInputs.cache
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.AssemblyInfo.cs
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.csproj.CoreCompileInputs.cache
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.dll
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/refint/git-course.dll
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.pdb
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/git-course.genruntimeconfig.cache
+/Users/ivakrapiva/git-course/obj/Debug/net9.0/ref/git-course.dll
