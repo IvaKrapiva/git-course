@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("git-course")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7cc4efa0361e359173f9356425dc79c2982744")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5384e94db4096b8788ffab237d6618e922ae34e")]
 [assembly: System.Reflection.AssemblyProductAttribute("git-course")]
 [assembly: System.Reflection.AssemblyTitleAttribute("git-course")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
