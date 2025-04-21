@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivakrapiva/git-course/git-course.csproj": {}
+    "/Users/ivakrapiva/new-git-project/git-course/git-course.csproj": {}
   },
   "projects": {
-    "/Users/ivakrapiva/git-course/git-course.csproj": {
+    "/Users/ivakrapiva/new-git-project/git-course/git-course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivakrapiva/git-course/git-course.csproj",
+        "projectUniqueName": "/Users/ivakrapiva/new-git-project/git-course/git-course.csproj",
         "projectName": "git-course",
-        "projectPath": "/Users/ivakrapiva/git-course/git-course.csproj",
+        "projectPath": "/Users/ivakrapiva/new-git-project/git-course/git-course.csproj",
         "packagesPath": "/Users/ivakrapiva/.nuget/packages/",
-        "outputPath": "/Users/ivakrapiva/git-course/obj/",
+        "outputPath": "/Users/ivakrapiva/new-git-project/git-course/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivakrapiva/.nuget/NuGet/NuGet.Config"
